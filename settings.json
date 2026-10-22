@@ -4,6 +4,5 @@
   "defaultModel": "deepseek-flash",
   "hideThinkingBlock": true,
   "autocompleteMaxVisible": 3,
-  "defaultTools": ["read", "powershell", "edit", "write"],
   "packages": ["npm:pi-vim", "npm:@narumitw/pi-plan-mode"]
 }
