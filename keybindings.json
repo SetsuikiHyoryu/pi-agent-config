@@ -1,7 +1,7 @@
 {
   "$schema": "https://pi.dev/schemas/keybindings.schema.json",
-  "tui.select.up": ["up", "ctrl+p"],
-  "tui.select.down": ["down", "ctrl+n"],
+  "tui.select.up": ["up", "ctrl+k"],
+  "tui.select.down": ["down", "ctrl+j"],
   "tui.select.left": ["left", "ctrl+h"],
   "tui.select.right": ["right", "ctrl+l"],
   "tui.select.pageUp": ["pageUp", "ctrl+u"],
